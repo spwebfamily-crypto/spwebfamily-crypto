@@ -4,32 +4,38 @@
 
 ### Developer • Entrepreneur • Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Next.js+%7C+Node.js+%7C+Firebase;Building+Digital+Products;Exploring+AI+%26+Automation;Turning+Ideas+Into+Code+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Next.js+%7C+Node.js+%7C+Firebase;Building+Digital+Products;Exploring+Artificial+Intelligence;AI+%7C+Automation+%7C+SaaS;Turning+Ideas+Into+Code+%F0%9F%9A%80" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=spwebfamily-crypto&style=for-the-badge&color=blueviolet" />
 
 </div>
 
 ---
 
-## 💻 About Me
+## 👨‍💻 About Me
 
 ```javascript
 const rodrigo = {
+  name: "Rodrigo Lima",
   role: "Developer & Entrepreneur",
   location: "Portugal 🇵🇹",
 
-  interests: [
-    "Web Development",
+  passions: [
+    "Software Development",
     "Artificial Intelligence",
     "Automation",
     "SaaS",
     "Startups"
   ],
 
-  technologies: {
+  stack: {
     frontend: [
+      "JavaScript",
+      "TypeScript",
       "React",
       "Next.js",
-      "TypeScript",
       "Tailwind CSS"
     ],
 
@@ -42,8 +48,8 @@ const rodrigo = {
     tools: [
       "Git",
       "GitHub",
-      "Vercel",
-      "VS Code"
+      "VS Code",
+      "Vercel"
     ],
 
     ai: [
@@ -52,7 +58,7 @@ const rodrigo = {
     ]
   },
 
-  mission: "Turn ideas into real digital products 🚀"
+  mission: "Build products that solve real problems 🚀"
 };
 ```
 
@@ -60,27 +66,27 @@ const rodrigo = {
 
 <div align="center">
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" />
 
-<br/>
+<br/><br/>
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
 
-<br/>
+<br/><br/>
 
 ### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase&theme=dark" />
 
-<br/>
+<br/><br/>
 
-### Tools
+### Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
 
@@ -88,54 +94,61 @@ const rodrigo = {
 
 ---
 
-## 👨‍💻 Currently Coding
+## 🚀 Currently Building
 
 ```typescript
-interface Developer {
-  name: string;
-  skills: string[];
-  currentlyLearning: string[];
-  status: string;
-}
-
-const me: Developer = {
-  name: "Rodrigo Lima",
-
-  skills: [
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Next.js",
-    "Node.js"
-  ],
-
-  currentlyLearning: [
-    "Artificial Intelligence",
-    "Automation",
-    "Scalable Systems",
-    "AI-assisted Development"
-  ],
-
-  status: "Building something new 🚀"
+type Project = {
+  category: string;
+  status: "Building" | "Learning" | "Shipping";
 };
 
-console.log(me.status);
+const projects: Project[] = [
+  {
+    category: "Modern Web Applications",
+    status: "Building"
+  },
+
+  {
+    category: "AI-powered Products",
+    status: "Building"
+  },
+
+  {
+    category: "Automation Systems",
+    status: "Learning"
+  },
+
+  {
+    category: "SaaS Platforms",
+    status: "Shipping"
+  }
+];
+
+const goal = "Turn ideas into products 🚀";
 ```
 
 ---
 
 <div align="center">
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=spwebfamily-crypto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spwebfamily-crypto&theme=tokyonight"
 />
 
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=spwebfamily-crypto&layout=compact&theme=tokyonight&hide_border=true"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spwebfamily-crypto&theme=tokyonight"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spwebfamily-crypto&theme=tokyonight"
 />
 
 </div>
@@ -144,7 +157,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=spwebfamily-
 
 <div align="center">
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <img
 src="https://streak-stats.demolab.com?user=spwebfamily-crypto&theme=tokyonight&hide_border=true"
@@ -154,64 +167,95 @@ src="https://streak-stats.demolab.com?user=spwebfamily-crypto&theme=tokyonight&h
 
 ---
 
-## 🚀 What I'm Building
+<div align="center">
 
-```python
-projects = [
-    "Modern Web Applications",
-    "AI-powered Products",
-    "Automation Tools",
-    "SaaS Platforms",
-    "Startup Ideas"
-]
+# 📈 Productive Time
 
-for project in projects:
-    print(f"Building: {project} 🚀")
-```
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spwebfamily-crypto&theme=tokyonight&utcOffset=1"
+/>
+
+</div>
 
 ---
 
 ## 🧠 Developer Mindset
 
 ```bash
-$ learn
-$ build
+$ idea
+
+> analyze_problem
+
+$ code
+
+> build_product
+
 $ test
-$ fail
-$ improve
+
+> fix_bugs
+
 $ deploy
+
+> ship_to_production
+
+$ learn
+
+> improve
+
 $ repeat
+
+🚀 Always building.
 ```
 
 ---
 
 <div align="center">
 
-## 🐍 My Contributions
+# 🐍 Contribution Activity
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/spwebfamily-crypto/spwebfamily-crypto/output/github-contribution-grid-snake-dark.svg"
-  />
 
 <source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/spwebfamily-crypto/spwebfamily-crypto/output/github-contribution-grid-snake.svg"
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/spwebfamily-crypto/spwebfamily-crypto/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/spwebfamily-crypto/spwebfamily-crypto/output/github-contribution-grid-snake.svg"
 />
 
 <img
- alt="GitHub Contribution Snake"
- src="https://raw.githubusercontent.com/spwebfamily-crypto/spwebfamily-crypto/output/github-contribution-grid-snake.svg"
-/> </picture>
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/spwebfamily-crypto/spwebfamily-crypto/output/github-contribution-grid-snake.svg"
+/>
+
+</picture>
 
 </div>
 
 ---
 
+## 🎯 What I'm Focused On
+
+```python
+focus = {
+    "web": "Modern full-stack applications",
+    "ai": "AI-powered development",
+    "automation": "Automating repetitive workflows",
+    "business": "Building scalable digital products",
+    "learning": "Improving every single day"
+}
+
+for area, goal in focus.items():
+    print(f"{area.upper()} → {goal}")
+```
+
+---
+
 <div align="center">
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/rodrigo-lima011/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -222,7 +266,7 @@ $ repeat
 </a>
 
 <a href="mailto:rodrigo072007@icloud.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-3693F3?style=for-the-badge&logo=icloud&logoColor=white" />
 </a>
 
 </div>
@@ -231,8 +275,10 @@ $ repeat
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Build.+Learn.+Improve.+Repeat.;Always+building+something+new+%F0%9F%9A%80;Turning+ideas+into+real+products." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Build.+Learn.+Improve.+Repeat.;Code+%E2%86%92+Product+%E2%86%92+Business;Always+building+something+new+%F0%9F%9A%80" />
 
-### 🚀 Turning ideas into products through code.
+### 💻 Code. Build. Ship. Repeat.
+
+### 🚀 Turning ideas into digital products.
 
 </div>
