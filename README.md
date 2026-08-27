@@ -101,9 +101,9 @@ console.log(me.status);
 
 ## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=spwebfamily-crypto&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spwebfamily-crypto&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -113,7 +113,7 @@ console.log(me.status);
 
 ## 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=spwebfamily-crypto&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -149,13 +149,23 @@ $ repeat
 
 ---
 
+<div align="center">
+
+## 🐍 Contributions
+
+<img src="https://raw.githubusercontent.com/spwebfamily-crypto/spwebfamily-crypto/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rodrigo-lima011/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEU_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/spwebfamily-crypto)
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge\&logo=icloud\&logoColor=white)](mailto:rodrigo072007@icloud.com)
 
