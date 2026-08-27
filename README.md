@@ -1,44 +1,172 @@
-# Olá, eu sou o Rodrigo! 👋
+# 👋 Hi, I'm Rodrigo Lima
 
-Desenvolvedor focado em soluções digitais modernas, com forte atuação em **Desenvolvimento Web**, **Automação de Scripts** e no ecossistema **Crypto**. Sou apaixonado por transformar ideias complexas em interfaces intuitivas e códigos eficientes.
+<div align="center">
 
----
+### Developer • Entrepreneur • Builder
 
-### 💻 No que venho trabalhando?
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Next.js+%7C+Node.js+%7C+Firebase;Building+Digital+Products;Exploring+AI+%26+Automation;Turning+Ideas+Into+Code+%F0%9F%9A%80" />
 
-- **Desenvolvimento Web:** Criação de interfaces dinâmicas e responsivas utilizando tecnologias core (HTML/CSS/JS) e bibliotecas modernas.
-- **Ecossistema Crypto:** Exploração e desenvolvimento de soluções voltadas para Web3, DeFi e tecnologias descentralizadas.
-- **Scripting & Automação:** Desenvolvimento de scripts inteligentes para otimização de fluxos de trabalho e processamento de dados.
-- **UI/UX Design:** Foco em proporcionar a melhor experiência de usuário através de interfaces limpas e funcionais.
+</div>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 💻 About Me
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+```javascript
+const rodrigo = {
+  role: "Developer & Entrepreneur",
+  location: "Portugal 🇵🇹",
+
+  interests: [
+    "Web Development",
+    "Artificial Intelligence",
+    "Automation",
+    "SaaS",
+    "Startups"
+  ],
+
+  technologies: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Firebase", "Supabase"],
+    tools: ["Git", "GitHub", "Vercel"],
+    ai: ["OpenAI", "Claude"]
+  },
+
+  mission: "Turn ideas into real digital products 🚀"
+};
+```
 
 ---
 
-### 📈 Estatísticas do GitHub
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=spwebfamily-crypto&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spwebfamily-crypto&layout=compact&theme=dark" height="150" alt="Top Languages" />
-</p>
+## ⚡ Tech Stack
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase&theme=dark" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+
+</div>
 
 ---
 
-### 📫 Vamos nos conectar?
+## 👨‍💻 Currently Coding
 
-- **Email:** [rodrigo072007@icloud.com](mailto:rodrigo072007@icloud.com)
-- **LinkedIn:** [Rodrigo Lima](https://www.linkedin.com/in/rodrigo-lima011/)
-- **GitHub:** [spwebfamily-crypto](https://github.com/spwebfamily-crypto)
+```typescript
+interface Developer {
+  name: string;
+  skills: string[];
+  currentlyLearning: string[];
+  status: string;
+}
+
+const me: Developer = {
+  name: "Rodrigo Lima",
+
+  skills: [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js"
+  ],
+
+  currentlyLearning: [
+    "Artificial Intelligence",
+    "Automation",
+    "Scalable Systems"
+  ],
+
+  status: "Building something 🚀"
+};
+
+console.log(me.status);
+```
 
 ---
 
-*"Inovação é o que distingue um líder de um seguidor."* 🚀
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🚀 Building
+
+```python
+projects = [
+    "Web Applications",
+    "AI-powered Products",
+    "Automation Tools",
+    "SaaS Products",
+    "Startup Ideas"
+]
+
+for project in projects:
+    print(f"Building: {project} 🚀")
+```
+
+---
+
+## 🧠 Developer Mindset
+
+```bash
+$ learn
+$ build
+$ fail
+$ improve
+$ deploy
+$ repeat
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rodrigo-lima011/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEU_USERNAME)
+
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge\&logo=icloud\&logoColor=white)](mailto:rodrigo072007@icloud.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Build.+Learn.+Improve.+Repeat.;Always+building+something+new+%F0%9F%9A%80" />
+
+### 🚀 Turning ideas into products through code.
+
+</div>
